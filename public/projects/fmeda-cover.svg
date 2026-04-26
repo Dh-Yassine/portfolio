@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="FMEDA cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)"/>
+  <rect x="60" y="58" width="840" height="424" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="114" y="128" width="732" height="12" rx="6" fill="rgba(96,165,250,0.32)"/>
+  <rect x="114" y="154" width="520" height="9" rx="4.5" fill="rgba(255,255,255,0.17)"/>
+  <rect x="114" y="228" width="228" height="190" rx="18" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="366" y="228" width="228" height="190" rx="18" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="618" y="228" width="228" height="190" rx="18" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="114" y="204" fill="rgba(255,255,255,0.92)" font-size="34" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700">FMEDA Automation</text>
+</svg>

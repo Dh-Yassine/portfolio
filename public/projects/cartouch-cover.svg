@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Cartouch cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)"/>
+  <rect x="56" y="56" width="848" height="428" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="112" y="126" width="540" height="14" rx="7" fill="url(#line)"/>
+  <rect x="112" y="154" width="410" height="10" rx="5" fill="rgba(255,255,255,0.18)"/>
+  <rect x="112" y="238" width="736" height="112" rx="20" fill="rgba(96,165,250,0.11)" stroke="rgba(255,255,255,0.1)"/>
+  <text x="112" y="210" fill="rgba(255,255,255,0.92)" font-size="34" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700">Cartouch</text>
+  <text x="112" y="396" fill="rgba(255,255,255,0.65)" font-size="18" font-family="Inter,Segoe UI,Arial,sans-serif">Vehicle inspection platform  Tunisia market</text>
+</svg>

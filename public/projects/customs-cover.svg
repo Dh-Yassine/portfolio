@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Customs AI cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#030712"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)"/>
+  <rect x="56" y="56" width="848" height="428" rx="28" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="110" y="122" width="742" height="12" rx="6" fill="rgba(56,189,248,0.28)"/>
+  <rect x="110" y="146" width="520" height="9" rx="4.5" fill="rgba(255,255,255,0.16)"/>
+  <rect x="110" y="214" width="742" height="236" rx="20" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <line x1="358" y1="214" x2="358" y2="450" stroke="rgba(255,255,255,0.08)"/>
+  <line x1="606" y1="214" x2="606" y2="450" stroke="rgba(255,255,255,0.08)"/>
+  <text x="110" y="190" fill="rgba(255,255,255,0.92)" font-size="32" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700">Customs Data-Mining Agent</text>
+</svg>

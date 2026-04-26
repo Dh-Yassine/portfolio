@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "title": "Yassine Dhouibi — AI & Software Engineering",
+    "description": "Portfolio of Yassine Dhouibi: medical AI research, deep learning, and full-stack engineering."
+  },
+  "nav": {
+    "stack": "Stack",
+    "experience": "Experience",
+    "work": "Work",
+    "leadership": "Leadership",
+    "blog": "Blog",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "role": "Software engineering student building applied AI systems",
+    "focus": "Healthcare AI · Computer vision · Practical deployment",
+    "ctaResume": "Download CV",
+    "locationLabel": "Based in"
+  },
+  "stack": {
+    "title": "Tech stack",
+    "subtitle": "Tools I use to ship research-grade software."
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Roles where I focused on impact, rigor, and collaboration."
+  },
+  "projects": {
+    "workTitle": "Professional work",
+    "workSubtitle": "Research, product engineering, and applied AI systems.",
+    "learnMore": "Learn more",
+    "tagsLabel": "Technologies"
+  },
+  "leadership": {
+    "title": "Leadership & engagement",
+    "subtitle": "Community building, hackathons, workshops, and programs that shaped how I collaborate and ship."
+  },
+  "blog": {
+    "title": "Recent LinkedIn posts",
+    "subtitle": "Latest updates synced manually from my LinkedIn profile for fully static hosting.",
+    "read": "View post",
+    "sourceNote": "Local source: update cards in src/content/site-content.ts and images in public/linkedin/."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with Next.js and Tailwind CSS."
+  }
+}

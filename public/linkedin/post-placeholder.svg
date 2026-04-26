@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="LinkedIn post placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)"/>
+  <rect x="64" y="80" width="832" height="380" rx="26" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="104" y="128" width="48" height="48" rx="999" fill="rgba(56,189,248,0.25)"/>
+  <rect x="168" y="137" width="220" height="12" rx="6" fill="url(#line)"/>
+  <rect x="168" y="157" width="160" height="10" rx="5" fill="rgba(255,255,255,0.15)"/>
+  <rect x="104" y="210" width="752" height="11" rx="5.5" fill="rgba(255,255,255,0.22)"/>
+  <rect x="104" y="232" width="680" height="11" rx="5.5" fill="rgba(255,255,255,0.16)"/>
+  <rect x="104" y="254" width="708" height="11" rx="5.5" fill="rgba(255,255,255,0.16)"/>
+  <rect x="104" y="318" width="752" height="96" rx="18" fill="rgba(56,189,248,0.08)" stroke="rgba(255,255,255,0.08)"/>
+</svg>
