@@ -110,17 +110,21 @@ export const experience: ExperienceItem[] = [
   },
   {
     id: "steg",
-    org: "STEG",
-    role: { en: "Technical Intern", fr: "Stagiaire technique" },
+    org: "STEG – Tunisian Company of Electricity and Gas",
+    role: {
+      en: "Technical Intern – Energy Monitoring & Green Engineering",
+      fr: "Stagiaire technique — suivi énergétique & ingénierie verte",
+    },
     period: { en: "Aug 2023", fr: "août 2023" },
     bullets: {
       en: [
-        "Documented internal energy consumption tracking and management tooling.",
+        "Visited operational sites to observe and track energy consumption on-site; documented data from monitoring systems, logged infrastructure readings, and supported reporting workflows within Tunisia’s national electricity and gas network.",
       ],
       fr: [
-        "Documentation d’outils internes de suivi et de gestion de la consommation d’énergie.",
+        "Visites de sites opérationnels pour observer et suivre la consommation d’énergie ; documentation des données issues des systèmes de monitoring, relevés d’infrastructure et soutien aux workflows de reporting au sein du réseau national d’électricité et de gaz.",
       ],
     },
+    mediaFolder: "steg",
     media: [],
   },
 ];
@@ -345,6 +349,20 @@ export const leadership: LeadershipItem[] = [
     },
     period: "2025",
     mediaFolder: "edx ambassador",
+    media: [],
+  },
+  {
+    id: "aiesec",
+    title: {
+      en: "AIESEC — Global Volunteer & Talent programs",
+      fr: "AIESEC — programmes Global Volunteer & Talent",
+    },
+    caption: {
+      en: "Outgoing Global Volunteer Team Leader and Outgoing Global Talent Team Member; matched students with international volunteer and professional exchange opportunities.",
+      fr: "Team Leader Global Volunteer sortant et membre Outgoing Global Talent ; mise en relation d’étudiants avec des opportunités d’échanges volontaires et professionnels à l’international.",
+    },
+    period: "Oct 2023 — Oct 2025",
+    mediaFolder: "aiesec",
     media: [],
   },
   {

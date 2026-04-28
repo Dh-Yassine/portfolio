@@ -24,7 +24,7 @@ Lab-TIM (Faculty of Medicine of Monastir) & Fattouma Bourguiba Hospital - AI & D
 - Medical data-quality initiative resolving duplicate patient records in RIS/IRS.
 UXIFY - UI/UX Intern (Jun 2024-Sep 2024), Remote: designed user-centered interfaces in Figma.
 Tunisie Telecom - Technical Intern (Aug 2024), Tunisia: router configuration and network testing.
-STEG - Technical Intern (Aug 2023), Tunisia: documented internal tools for energy monitoring and reporting.
+STEG – Tunisian Company of Electricity and Gas (Aug 2023), Tunisia — Technical Intern – Energy Monitoring & Green Engineering: visited operational sites to observe and track energy consumption on-site; documented data from monitoring systems, logged infrastructure readings, and supported reporting workflows within Tunisia’s national electricity and gas network.
 
 Selected Projects
 - Cartouch (cartouch.tn): vehicle inspection and verification platform for Tunisia's used-car market, built full-stack independently, reached 1,000+ organic users on launch day.

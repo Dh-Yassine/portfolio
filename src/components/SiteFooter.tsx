@@ -54,7 +54,6 @@ export async function SiteFooter({ locale }: Props) {
           <p>
             © {year} {siteConfig.name}. {t("rights")}
           </p>
-          <p className="mt-1">{t("builtWith")}</p>
         </div>
       </div>
     </footer>

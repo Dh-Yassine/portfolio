@@ -43,7 +43,6 @@
     "sourceNote": "Source locale : mettez à jour les cartes dans src/content/site-content.ts et les images dans public/linkedin/."
   },
   "footer": {
-    "rights": "Tous droits réservés.",
-    "builtWith": "Construit avec Next.js et Tailwind CSS."
+    "rights": "Tous droits réservés."
   }
 }

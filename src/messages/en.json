@@ -43,7 +43,6 @@
     "sourceNote": "Local source: update cards in src/content/site-content.ts and images in public/linkedin/."
   },
   "footer": {
-    "rights": "All rights reserved.",
-    "builtWith": "Built with Next.js and Tailwind CSS."
+    "rights": "All rights reserved."
   }
 }

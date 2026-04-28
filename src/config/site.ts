@@ -4,8 +4,8 @@ export const siteConfig = {
   email: "yassinedhouibi@gmail.com",
   phone: "+216 2626 0995",
   location: { en: "Monastir, Tunisia", fr: "Monastir, Tunisie" },
-  github: "https://github.com/yassinedhouibi",
+  github: "https://github.com/Dh-Yassine",
   linkedIn: "https://www.linkedin.com/in/yassine-dhouibi/",
-  facebook: "https://facebook.com/yassine.dhouibi",
-  resumePath: "/updated_resume_yassine_english.pdf",
+  facebook: "https://www.facebook.com/yassine.dhouibi.5/",
+  resumePath: "/new_updated_resume_yassine_english.pdf",
 } as const;
